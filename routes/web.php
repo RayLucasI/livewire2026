@@ -13,4 +13,4 @@ Route::view('dashboard', 'dashboard')
 
 require __DIR__.'/settings.php';
 
-//Hola
+
